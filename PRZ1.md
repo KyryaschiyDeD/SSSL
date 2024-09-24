@@ -76,6 +76,7 @@ sudo systemctl status rsyslog
 - Запустили rsyslog
 - Настроили rsyslog
 - Проверили
+
 |![](images/Снимок%20экрана%202024-09-24%20234955.png)|
 |:--:|
 |*Итог*|
